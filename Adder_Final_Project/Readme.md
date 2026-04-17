@@ -30,7 +30,6 @@ In addition, **all files are included in `content.zip`** for convenient submissi
 
 ### Final Report
 - **Final Project Report**
-- **LaTeX source and compiled PDF report**
 
 ---
 
